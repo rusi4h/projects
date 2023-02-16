@@ -1,7 +1,0 @@
-E:\Rustamon\Programs\Visual Studio\Projects\rusi4hMassive\bin\Debug\rusi4hMassive.exe.config
-E:\Rustamon\Programs\Visual Studio\Projects\rusi4hMassive\bin\Debug\rusi4hMassive.exe
-E:\Rustamon\Programs\Visual Studio\Projects\rusi4hMassive\bin\Debug\rusi4hMassive.pdb
-E:\Rustamon\Programs\Visual Studio\Projects\rusi4hMassive\obj\Debug\rusi4hMassive.csproj.AssemblyReference.cache
-E:\Rustamon\Programs\Visual Studio\Projects\rusi4hMassive\obj\Debug\rusi4hMassive.csproj.CoreCompileInputs.cache
-E:\Rustamon\Programs\Visual Studio\Projects\rusi4hMassive\obj\Debug\rusi4hMassive.exe
-E:\Rustamon\Programs\Visual Studio\Projects\rusi4hMassive\obj\Debug\rusi4hMassive.pdb
