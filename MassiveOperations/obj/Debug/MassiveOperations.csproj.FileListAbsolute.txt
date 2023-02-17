@@ -1,0 +1,7 @@
+E:\Rustamon\Programs\Visual Studio\Projects\MassiveOperations\bin\Debug\MassiveOperations.exe.config
+E:\Rustamon\Programs\Visual Studio\Projects\MassiveOperations\bin\Debug\MassiveOperations.exe
+E:\Rustamon\Programs\Visual Studio\Projects\MassiveOperations\bin\Debug\MassiveOperations.pdb
+E:\Rustamon\Programs\Visual Studio\Projects\MassiveOperations\obj\Debug\MassiveOperations.csproj.AssemblyReference.cache
+E:\Rustamon\Programs\Visual Studio\Projects\MassiveOperations\obj\Debug\MassiveOperations.csproj.CoreCompileInputs.cache
+E:\Rustamon\Programs\Visual Studio\Projects\MassiveOperations\obj\Debug\MassiveOperations.exe
+E:\Rustamon\Programs\Visual Studio\Projects\MassiveOperations\obj\Debug\MassiveOperations.pdb
