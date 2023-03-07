@@ -1,0 +1,7 @@
+C:\Users\rusi4h\source\repos\massivePrac6\bin\Debug\massivePrac6.exe.config
+C:\Users\rusi4h\source\repos\massivePrac6\bin\Debug\massivePrac6.exe
+C:\Users\rusi4h\source\repos\massivePrac6\bin\Debug\massivePrac6.pdb
+C:\Users\rusi4h\source\repos\massivePrac6\obj\Debug\massivePrac6.csproj.AssemblyReference.cache
+C:\Users\rusi4h\source\repos\massivePrac6\obj\Debug\massivePrac6.csproj.CoreCompileInputs.cache
+C:\Users\rusi4h\source\repos\massivePrac6\obj\Debug\massivePrac6.exe
+C:\Users\rusi4h\source\repos\massivePrac6\obj\Debug\massivePrac6.pdb
